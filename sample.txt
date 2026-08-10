@@ -1,0 +1,13 @@
+Artificial Intelligence is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+Machine Learning is a subset of Artificial Intelligence. It allows computers to learn patterns from data and make predictions without being explicitly programmed for every task.
+
+Deep Learning is a subset of Machine Learning that uses artificial neural networks with multiple layers.
+
+Cybersecurity is the practice of protecting computers, networks, applications and data from unauthorized access and cyber attacks.
+
+Cloud computing provides computing resources such as servers, storage and databases through the internet.
+
+Natural Language Processing allows computers to understand, process and generate human language.
+
+Generative AI is a type of artificial intelligence that can create new content such as text, images, audio and code.
