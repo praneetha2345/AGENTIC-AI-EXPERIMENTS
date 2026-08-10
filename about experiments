@@ -1,0 +1,54 @@
+# Agentic AI Experiments
+
+This repository contains three practical **Agentic AI experiments using Python and Ollama**. The projects demonstrate how Large Language Models can be used for database querying, document-based question answering, and multi-step prompt workflows.
+
+## Experiments
+
+### Experiment 1 – Text-to-SQL Workflow
+
+Converts natural language questions into SQL queries using an LLM. The generated SQL query is executed on a SQLite database, and the results are converted into a simple natural-language response.
+
+**Concepts:** LLM, Text-to-SQL, SQL Generation, SQLite, Query Execution
+
+### Experiment 2 – RAG-Based Question Answering System
+
+Implements a basic Retrieval-Augmented Generation system. Documents are indexed using TF-IDF, relevant information is retrieved using similarity matching, and Ollama generates an answer using the retrieved context.
+
+**Concepts:** RAG, Indexing, Retrieval, TF-IDF, LLM, Question Answering
+
+### Experiment 3 – Prompt Chaining for Summarization
+
+Demonstrates a multi-step prompt pipeline. The input text is first summarized, important points are extracted from the summary, and questions are generated based on the extracted information.
+
+**Concepts:** Prompt Chaining, LLM, Summarization, Information Extraction
+
+## Technologies Used
+
+* Python
+* Ollama
+* Llama 3.2
+* SQLite
+* Scikit-learn
+* TF-IDF
+* Large Language Models (LLMs)
+
+## Project Structure
+
+```text
+agentic ai experiments/
+│
+├── experiment1_text_to_sql.py
+├── experiment2_rag_qa.py
+├── experiment3_prompt_chaining.py
+├── sample.txt
+├── requirements.txt
+└── README.md
+```
+
+## Objective
+
+The objective of these experiments is to understand and implement fundamental **Agentic AI and LLM workflows locally using Ollama**. The experiments demonstrate SQL generation, information retrieval, question answering, and multi-step prompt processing.
+
+## Local AI
+
+These experiments use **Ollama with the Llama 3.2 model**, allowing the applications to run locally without requiring a cloud-based LLM API key.
